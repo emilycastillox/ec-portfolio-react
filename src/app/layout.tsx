@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Emily Castillo - Full Stack Web Developer',
   description: 'Emily Castillo Portfolio - Full Stack Web Developer specializing in React, Node.js, and modern web technologies',
   keywords: 'resume bootstrap template, resume / cv html template, html5 / css3 resume, Emily Castillo, Full Stack Developer',
-  author: 'EmilyCastillo',
+  authors: [{ name: 'Emily Castillo' }],
 };
 
 export default function RootLayout({
@@ -15,6 +15,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+      </head>
       <body>{children}</body>
     </html>
   );

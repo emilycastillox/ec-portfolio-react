@@ -2254,18 +2254,27 @@ hr, .border-color {
 /* Responsive Design for Contact Info */
 @media (max-width: 768px) {
   .contact-info-item {
-    flex-direction: column;
-    text-align: center;
-    gap: 10px;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    gap: 15px;
+    padding: 15px;
   }
   
   .contact-icon {
-    align-self: center;
-    margin-top: 0;
+    flex-shrink: 0;
+    width: 45px;
+    height: 45px;
+    margin: 0;
+  }
+  
+  .contact-info-content {
+    flex: 1;
   }
   
   .contact-info-content h5 {
     font-size: 1rem;
+    margin-bottom: 5px;
   }
   
   .contact-info-content a {

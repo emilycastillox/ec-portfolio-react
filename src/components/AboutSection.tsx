@@ -9,7 +9,7 @@ export default function AboutSection() {
         {/* About Content */}
         <div className="row mb-5">
           <div className="col-lg-8">
-            <div className="about-content">
+            <div className="about-content mb-5" style={{ marginBottom: '4rem' }}>
               <p className="lead mb-4">
                 I'm a Full Stack Web Developer with 3+ years of experience building end-to-end web applications. From freelance projects, to working with stakeholders directly to deliver solutions, I am a communicator at heart.
                 Coming from a first-generation Dominican-American family, I bring diverse perspectives to technology and 
@@ -20,16 +20,10 @@ export default function AboutSection() {
           <div className="col-lg-4">
             <div className="about-info">
               <div className="info-item">
-                <strong>Name:</strong> Emily Castillo
-              </div>
-              <div className="info-item">
                 <strong>Location:</strong> Boston, MA
               </div>
               <div className="info-item">
                 <strong>Education:</strong> College of The Holy Cross
-              </div>
-              <div className="info-item">
-                <strong>Focus:</strong> Full Stack Development
               </div>
             </div>
           </div>

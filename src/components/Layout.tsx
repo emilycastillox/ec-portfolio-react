@@ -114,7 +114,7 @@ export default function Layout({ children }: LayoutProps) {
             </a>
           </li>
           <li className="menu-footer">
-            <a href="/docs/Castillo, Emily Resume 22.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/docs/Castillo Emily Resume 2025.pdf" target="_blank" rel="noopener noreferrer">
               <h6>
                 <i className="lnr lnr-download"></i>
                 Download Resume
