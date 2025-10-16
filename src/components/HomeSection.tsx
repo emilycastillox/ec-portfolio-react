@@ -23,7 +23,7 @@ export default function HomeSection() {
       <div className="header-content">
         <div className="hero-text">
           <h2 className="hero-title">
-            Hi<span className="text-primary">.</span> I'm <span className="text-primary name-highlight">Emily Castillo</span>
+            Hi<span className="text-primary">.</span> I&apos;m <span className="text-primary name-highlight">Emily Castillo</span>
           </h2>
           
           <h5 className="hero-subtitle">Full Stack Web Developer</h5>

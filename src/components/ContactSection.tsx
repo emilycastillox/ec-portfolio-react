@@ -53,7 +53,7 @@ export default function ContactSection() {
         <div className="row">
           <div className="col-md-6 space-bottom">
             <div className="contact-description mb-5">
-              <h5>Let's Chat!</h5>
+              <h5>Let&apos;s Chat!</h5>
               <p className="mb-4">
                 From web development to creative services, I can help you achieve your goals with fluid, unique websites suited to your needs. I am currently freelancing and open to new projects. Contact me for rates and services today!
               </p>
@@ -154,7 +154,7 @@ export default function ContactSection() {
                     border: '1px solid #c3e6cb', 
                     borderRadius: '4px' 
                   }}>
-                    Message sent successfully! I'll get back to you soon.
+                    Message sent successfully! I&apos;ll get back to you soon.
                   </div>
                 )}
                 

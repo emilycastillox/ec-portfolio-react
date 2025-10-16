@@ -11,7 +11,7 @@ export default function AboutSection() {
           <div className="col-lg-8">
             <div className="about-content mb-5" style={{ marginBottom: '4rem' }}>
               <p className="lead mb-4">
-                I'm a Full Stack Web Developer with 3+ years of experience building end-to-end web applications. From freelance projects, to working with stakeholders directly to deliver solutions, I am a communicator at heart.
+                I&apos;m a Full Stack Web Developer with 3+ years of experience building end-to-end web applications. From freelance projects, to working with stakeholders directly to deliver solutions, I am a communicator at heart.
                 Coming from a first-generation Dominican-American family, I bring diverse perspectives to technology and 
                 am committed to using my skills to promote diversity, equity, and inclusion in the tech industry. With involvement in organizations like Latinas in Tech, and Resilient Coders, I am dedicated to empowering others and building a more inclusive tech community.
               </p>
@@ -43,7 +43,7 @@ export default function AboutSection() {
                   <li><b>Secure File Transfer System</b> - A web application that allows internal and external users to upload and download files securely.</li>
                   <li><b>Equipment Lending System</b> - Internal web application to track loaner devices to students and faculty, and allows reservations in advance.</li>
                   <li><b>Equipment Replacement System</b> - Internal web application to track lifecycle of staff devices and handle the replacement process and notification with emails and ticketing system.</li>
-                  <li><b>OpenAI Zoom Integration/Chatbot</b> - Integrated OpenAI's API with Zoom's API to create a chatbot that can answer questions and help with tasks natively as a Zoom app.</li>
+                  <li><b>OpenAI Zoom Integration/Chatbot</b> - Integrated OpenAI&apos;s API with Zoom&apos;s API to create a chatbot that can answer questions and help with tasks natively as a Zoom app.</li>
                 </ul>
               </div>
             </div>
@@ -52,7 +52,7 @@ export default function AboutSection() {
                 <h5>Full Stack Web Developer/AI Engineer - Resilient Coders</h5>
                 <p className="text-muted">2022 - Present</p>
                 <ul>
-                  <li><b>Resilient Coders - Learning Platform</b> - A web application utilizing AIfor bootcamp students to get personalized learning in webdevelopment and admins to monitor their progress.</li>
+                  <li><b>Resilient Coders - Learning Platform</b> - A web application utilizing AI for bootcamp students to get personalized learning in web development and admins to monitor their progress.</li>
                 </ul>
               </div>
               <div className="experience-item">
