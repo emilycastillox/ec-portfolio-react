@@ -20,9 +20,9 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: 'Patissier Practtice',
-    image: '/images/patissier.png',
-    link: 'https://patissier-practice.vercel.app/',
+    title: 'Project Intake Hub',
+    image: '/images/projectintakehub.png',
+    link: 'https://project-intake-hub.vercel.app/',
     groups: ['photography', 'creative']
   },
   {
